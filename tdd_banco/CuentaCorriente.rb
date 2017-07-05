@@ -1,5 +1,13 @@
 class CuentaCorriente
+	def initialize
+		@saldo = 0
+	end
+
 	def saldo
-		return 0
+		return @saldo
+	end
+
+	def deposito(importe)
+		@saldo = importe
 	end
 end
