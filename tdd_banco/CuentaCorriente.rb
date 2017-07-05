@@ -7,7 +7,14 @@ class CuentaCorriente
 		return @saldo
 	end
 
-	def deposito(importe)
-		@saldo = importe
+	def depositar(importe)
+		@saldo += importe
+	end
+
+	def extraer(importe)
+		if importe > @saldo
+			fail("Sos pobre!, sabelo")		
+		end
+		return @saldo -= importe
 	end
 end
