@@ -1,17 +1,36 @@
 {
   "Cucumber Features": {
     "coverage": {
-      "/home/vagrant/csd/template/app.rb": [
+      "/home/vagrant/csd/curso_kleer_scrum-xp/web-rover/app.rb": [
         1,
         null,
         1,
+        2,
+        2,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null
+      ],
+      "/home/vagrant/csd/curso_kleer_scrum-xp/web-rover/features/step_definitions/my_steps.rb": [
+        1,
+        2,
+        null,
+        null,
+        1,
+        4,
+        4,
+        null,
+        null,
+        1,
+        1,
+        null,
         null,
         null
       ],
-      "/home/vagrant/csd/template/features/step_definitions/my_steps.rb": [
-
-      ],
-      "/home/vagrant/csd/template/features/step_definitions/template_steps.rb": [
+      "/home/vagrant/csd/curso_kleer_scrum-xp/web-rover/features/step_definitions/template_steps.rb": [
         1,
         0,
         null,
@@ -52,6 +71,6 @@
         null
       ]
     },
-    "timestamp": 1472115195
+    "timestamp": 1499366987
   }
 }

@@ -32,6 +32,11 @@ G-iven (Arrange) Preparar todo para que la prueba tenga sentido
 W-hen (Act) La accion que quiero probar
 T-hen (Assert) Confirmo el resultado
 
+ATDD: Acceptance Test-Driven Development
+Con ATDD lo que se prueba es la aplicación, mas a nivel
+funcional como lo entiende el usuario, con TDD hacemos 
+pruebas mas a nivel de classes.
+
 
 
 
