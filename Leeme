@@ -1,5 +1,21 @@
-===================================
+================================================================
+05/07/2017
+----------------------------------------------------------------
+-> Principios agiles de dividir cosas (ejemplo del carpaccio
+-> TDD (Test Driven development)
+   uso de la herramienta spec
+   
+   Para crear un directorio para crear specificaciones a probar
+   nuevas usar el comando "spec --init"
+   
+   Dentro del directorio ./spec se suben las espcificaciones
+   de comportamiento de la clase
+   
+   Correr desde ./ spec para que se ejecuten las pruebas
+
+----------------------------------------------------------------
 06/07/2017
+----------------------------------------------------------------
 -> Web usando sinatra framework
    implementamos la clase de romanos que hicimos antes
 -> Pruebas usando cucumber 
