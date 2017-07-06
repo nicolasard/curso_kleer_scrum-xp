@@ -18,4 +18,21 @@
 ----------------------------------------------------------------
 -> Web usando sinatra framework
    implementamos la clase de romanos que hicimos antes
--> Pruebas usando cucumber 
+-> Pruebas usando cucumber
+
+Como tendrían que ser las pruebas unitarias:
+F-ast 
+I-solate
+R-epeatable
+S-elfvalidate
+T-imely
+
+Patron de pruebas unitarias:
+G-iven (Arrange) Preparar todo para que la prueba tenga sentido
+W-hen (Act) La accion que quiero probar
+T-hen (Assert) Confirmo el resultado
+
+
+
+
+
